@@ -26,13 +26,13 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 | Checkpoint                                 | Người chính     | Người hỗ trợ                                            | Sản phẩm                                       |
 | ------------------------------------------ | --------------- | ------------------------------------------------------- | ---------------------------------------------- |
-| CP3 — Hội tụ nhóm                          |                 | Đỗ Minh Thanh; Nguyễn Đức Hiếu; Nguyễn Mạnh Quân        | Cluster, cây OST, bảng chấm điểm               |
-| CP4 — Kiểm chứng                           | Trần Thanh Hải  | Đỗ Minh Thanh                                           | Assumption map, snapshot hoặc survey           |
-| CP4 — Research                             | Trần Thanh Hải  | Đỗ Minh Thanh; Nguyễn Mạnh                          | Bảng research có link                          |
+| CP3 — Hội tụ nhóm                          | Trần Thanh Hải  | Đỗ Minh Thanh; Nguyễn Đức Hiếu; Nguyễn Mạnh Quân        | Cluster, cây OST, bảng chấm điểm               |
+| CP4 — Kiểm chứng                           | Nguyễn Mạnh Quân| Đỗ Minh Thanh                                           | Assumption map, snapshot hoặc survey           |
+| CP4 — Research                             | Trần Thanh Hải  | Đỗ Minh Thanh; Nguyễn Mạnh Quân                         | Bảng research có link                          |
 | CP5 — Quy trình trước/sau                  | Nguyễn Đức Hiếu | Trần Thanh Hải; Đỗ Minh Thanh                           | Quy trình + bảng before/after                  |
-| CP5 — Problem Statement v0                 |                 | Nguyễn Đức Hiếu (Success Metric); Đỗ Minh Thanh; Nguyễn Mạnh Quân         | Problem Statement v0                           |
-| CP6 — Mức can thiệp + Problem Statement v1 |                 | Nguyễn Đức Hiếu (Workflow/Agent, metric); Đỗ Minh Thanh; Nguyễn Mạnh Quân | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định                           |                 | Đỗ Minh Thanh; Nguyễn Đức Hiếu; Nguyễn Mạnh Quân        | 4 rủi ro + Go/Not Yet/No-Go                    |
+| CP5 — Problem Statement v0                 | Đỗ Minh Thanh   | Nguyễn Đức Hiếu (Success Metric); Đỗ Minh Thanh; Nguyễn Mạnh Quân         | Problem Statement v0                           |
+| CP6 — Mức can thiệp + Problem Statement v1 | Nguyễn Mạnh Quân| Nguyễn Đức Hiếu (Workflow/Agent, metric); Đỗ Minh Thanh; Nguyễn Mạnh Quân | Ma trận, AI Canvas, eval, Problem Statement v1 |
+| CP6 — Quyết định                           | Trần Thanh Hải  | Đỗ Minh Thanh; Nguyễn Đức Hiếu; Nguyễn Mạnh Quân        | 4 rủi ro + Go/Not Yet/No-Go                    |
 
 
 ## Cá nhân
