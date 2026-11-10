@@ -10,12 +10,13 @@
 
 ## Thành viên
 
-|  STT | Họ và tên      | MSSV        | Vai trò trong nhóm                                                                                                 | Tài khoản GitHub                                                    |
-| ---: | -------------- | ----------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-|    1 | Đỗ Minh Thanh  | 2A202603793 | Đề xuất problem kỹ thuật; phản biện; tổng hợp khảo sát, xác định vấn đề; đối chiếu quy trình và Problem Statement. | https://github.com/thd050810                                         |
-|    2 | Nguyễn Đức Hiếu | 2A202603772 | Phản biện, vẽ quy trình trước/sau, viết Success Metric                                                             | [Hie24](https://github.com/Hie24)                                   |
-|    3 |                |             |                                                                                                                    |                                                                     |
-|    4 |                |             |                                                                                                                    |                                                                     |
+| STT | Họ và tên       | MSSV        | Vai trò trong nhóm                                                                                                                                   | Tài khoản GitHub                  |
+| --: | --------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+|   1 | Đỗ Minh Thanh   | 2A202603793 | Đề xuất problem kỹ thuật; phản biện; tổng hợp khảo sát, xác định vấn đề; đối chiếu quy trình và Problem Statement.                                   | https://github.com/thd050810      |
+|   2 | Nguyễn Đức Hiếu | 2A202603772 | Phản biện, vẽ quy trình trước/sau, viết Success Metric                                                                                               | [Hie24](https://github.com/Hie24) |
+|   3 | Trần Thanh Hải  | 2A202603740 | Đề xuất problem nhận xét học bạ; phỏng vấn GVCN, research giải pháp; xây dựng quy trình trước/sau, Problem Statement, AI Canvas; chốt quyết định Go. | https://github.com/tran-hai21     |
+|   4 |                 |             |                                                                                                                                                      |                                   |
+
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
@@ -23,15 +24,16 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 ## Phân công theo checkpoint
 
-| Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
-|---|---|---|---|
-| CP3 — Hội tụ nhóm | | Nguyễn Đức Hiếu | Cluster, cây OST, bảng chấm điểm |
-| CP4 — Kiểm chứng | | | Assumption map, snapshot hoặc survey |
-| CP4 — Research | | | Bảng research có link |
-| CP5 — Quy trình trước/sau | Nguyễn Đức Hiếu | | Quy trình + bảng before/after |
-| CP5 — Problem Statement v0 | | Nguyễn Đức Hiếu (Success Metric) | Problem Statement v0 |
-| CP6 — Mức can thiệp + Problem Statement v1 | | Nguyễn Đức Hiếu (Workflow/Agent, metric) | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định | | | 4 rủi ro + Go/Not Yet/No-Go |
+| Checkpoint                                 | Người chính     | Người hỗ trợ                                            | Sản phẩm                                       |
+| ------------------------------------------ | --------------- | ------------------------------------------------------- | ---------------------------------------------- |
+| CP3 — Hội tụ nhóm                          |                 | Đỗ Minh Thanh; Nguyễn Đức Hiếu; Nguyễn Mạnh Quân        | Cluster, cây OST, bảng chấm điểm               |
+| CP4 — Kiểm chứng                           | Trần Thanh Hải  | Đỗ Minh Thanh                                           | Assumption map, snapshot hoặc survey           |
+| CP4 — Research                             | Trần Thanh Hải  | Đỗ Minh Thanh                                           | Bảng research có link                          |
+| CP5 — Quy trình trước/sau                  | Nguyễn Đức Hiếu | Trần Thanh Hải; Đỗ Minh Thanh                           | Quy trình + bảng before/after                  |
+| CP5 — Problem Statement v0                 |                 | Nguyễn Đức Hiếu (Success Metric); Đỗ Minh Thanh         | Problem Statement v0                           |
+| CP6 — Mức can thiệp + Problem Statement v1 |                 | Nguyễn Đức Hiếu (Workflow/Agent, metric); Đỗ Minh Thanh | Ma trận, AI Canvas, eval, Problem Statement v1 |
+| CP6 — Quyết định                           |                 | Đỗ Minh Thanh; Nguyễn Đức Hiếu                          | 4 rủi ro + Go/Not Yet/No-Go                    |
+
 
 ## Cá nhân
 
@@ -94,3 +96,34 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - Chọn bài toán dựa trên pain, phạm vi và khả năng đo; nhận diện rác chưa đủ nếu hạ tầng thu gom không phù hợp.
 - Metric cần đo cả thời gian và chất lượng; AI chỉ viết nháp, giáo viên vẫn kiểm tra và quyết định.
+
+### TranThanhHai-2A202603740
+
+**Phần việc phụ trách:**
+
+- Đề xuất và bảo vệ problem nhận xét học bạ cuối kỳ; pitch 3 Problem Cards cá nhân.
+- Phản biện candidate của các thành viên; gom cluster, xây Opportunity Solution Tree và chấm điểm shortlist.
+- Phụ trách kiểm chứng: phỏng vấn GVCN, tổng hợp khảo sát và research các giải pháp đã có.
+- Xây dựng quy trình trước/sau, Problem Statement v0 → v1, AI Canvas, ma trận mức can thiệp và chốt quyết định Go.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Pitch Card #1 — viết nhận xét học bạ theo Thông tư 22, phân tích bottleneck 360 phút/45 học sinh; card đạt 34/35 điểm và trở thành Candidate #10 của nhóm.
+- Phỏng vấn sâu 1:1 một GVCN lớp 11, tổng hợp khảo sát 22 giáo viên: giáo viên chỉ muốn được hỗ trợ (augment), kiên quyết không giao việc duyệt nhận xét cho máy; template Excel/Mail Merge hiện có bị vỡ font và rập khuôn.
+- Đóng góp 3 candidate vào Cluster A (tác vụ sư phạm), cùng nhóm xây OST với outcome giảm 70–90% thời gian tác vụ định kỳ và gạch bỏ các giải pháp đội lốt cơ hội.
+- Vẽ quy trình hiện tại 480 phút/lớp và quy trình tương lai 45 phút/lớp, phân định rõ bước nào do Rule, AI hay giáo viên đảm nhận.
+- Bổ sung tiêu chí chất lượng vào Problem Statement v1: độ trùng lặp văn bản < 5%, tỷ lệ giáo viên duyệt ≥ 80%, ẩn danh hóa PII trước khi gửi lên mô hình.
+- Lập luận loại No AI/Rule/Agent để chọn mức Workflow, hoàn thiện AI Canvas, phân tích 4 rủi ro sản phẩm và đề xuất pilot 1 lớp với ngưỡng dừng khi tỷ lệ duyệt dưới 65%.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- [Báo cáo cá nhân](report/individual/2A202603740_TranThanhHai.md): mục 2 có 6 problem; mục 3 có top 3, Problem Cards và quy trình nháp; mục 4 ghi đóng góp CP3–CP7; mục 5 ghi cách dùng AI; mục 6 là Reflection.
+- [Báo cáo nhóm](report/team/group_report.md): mục 2 (CP3), mục 3 (CP4), mục 4–5 (CP5), mục 6–8 (CP6).
+- Commit báo cáo cá nhân: `d353087`.
+
+**Điều mình học được từ phần nhóm:**
+
+- Một vấn đề kỹ thuật "thời thượng" chưa chắc là bài toán AI tốt; bài toán tốt cần ranh giới dữ liệu rõ, quy trình lặp lại và tác động đo được.
+- Người dùng muốn được hỗ trợ để bớt kiệt sức, không muốn bị thay thế; ranh giới Human-in-the-loop là yêu cầu đạo đức và pháp lý, không chỉ là lựa chọn thiết kế.
+- Tốc độ nhanh mà chất lượng đầu ra kém thì không có giá trị, nên metric phải đo cả thời gian, độ cá nhân hóa và tỷ lệ duyệt.
+- Viết Problem Statement khó nhất là giữ kỷ luật tách vấn đề khỏi giải pháp; khi gạt bỏ lớp vỏ công nghệ, bài toán mới rõ và dễ đánh giá.
