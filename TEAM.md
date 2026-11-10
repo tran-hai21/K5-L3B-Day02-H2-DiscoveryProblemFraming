@@ -129,24 +129,28 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 - Viết Problem Statement khó nhất là giữ kỷ luật tách vấn đề khỏi giải pháp; khi gạt bỏ lớp vỏ công nghệ, bài toán mới rõ và dễ đánh giá.
 
 ### NguyenManhQuan-2A202603776
+
 **Phần việc phụ trách:**
 Đóng góp 25% công việc nhóm.
-CP3: Pitch 3 Problem Card cá nhân (Card #1 về paper lọt shortlist top 2 với 30/35 điểm); phản biện các candidate khác; đồng thuận chọn bài học bạ.
-CP4: Phụ trách chính phần Research giải pháp kỹ thuật đã có (test ChatGPT/Claude web chat, phân tích Excel Mail Merge và gợi ý vnEdu).
-CP5: Thiết lập ranh giới kỹ thuật (Boundary) và cơ chế dự phòng (Fallback) về Google Sheets.
-CP6: Xây dựng bộ 3 tiêu chí đánh giá đầu ra (Eval criteria), trả lời câu hỏi Google PAIR, phân tích tính khả thi/chi phí và thiết lập ngưỡng dừng an toàn.
+- CP3: Pitch 3 Problem Card cá nhân (Card #1 về paper lọt shortlist top 2 với 30/35 điểm); phản biện các candidate khác; đồng thuận chọn bài học bạ.
+- CP4: Phụ trách chính phần Research giải pháp kỹ thuật đã có (test ChatGPT/Claude web chat, phân tích Excel Mail Merge và gợi ý vnEdu).
+- CP5: Thiết lập ranh giới kỹ thuật (Boundary) và cơ chế dự phòng (Fallback) về Google Sheets.
+- CP6: Xây dựng bộ 3 tiêu chí đánh giá đầu ra (Eval criteria), trả lời câu hỏi Google PAIR, phân tích tính khả thi/chi phí và thiết lập ngưỡng dừng an toàn.
+
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
-Chuẩn bị 5 problem scan và 3 Problem Card: Card #1 (Bóc tách paper PDF), Card #2 (Ưu tiên bài tập dồn deadline), Card #3 (Tìm snippet/lời giải Discord).
-Đặt câu hỏi phản biện cho Hiếu về rào cản hạ tầng rác thải; Thanh về tóm tắt ôn thi; Hải về tính phân hóa và độ chính xác của câu hỏi kiểm tra.
-Tiếp nhận phản biện của Thanh về rủi ro ảo giác số liệu paper và nhận thấy chi phí kiểm tra lại PDF quá cao; chủ động rút bài cá nhân để ủng hộ chọn bài toán học bạ của Hải vì dữ liệu bảng Excel chuẩn hóa hơn.
-Hoàn thiện bảng Research giải pháp có sẵn: thử nghiệm nhập dữ liệu vào ChatGPT/Claude để chứng minh rào cản thao tác lặp 45 lần, nguy cơ lộ PII và văn phong lệch chuẩn Thông tư 22 
+- Chuẩn bị 5 problem scan và 3 Problem Card: Card #1 (Bóc tách paper PDF), Card #2 (Ưu tiên bài tập dồn deadline), Card #3 (Tìm snippet/lời giải Discord).
+- Đặt câu hỏi phản biện cho Hiếu về rào cản hạ tầng rác thải; Thanh về tóm tắt ôn thi; Hải về tính phân hóa và độ chính xác của câu hỏi kiểm tra.
+- Tiếp nhận phản biện của Thanh về rủi ro ảo giác số liệu paper và nhận thấy chi phí kiểm tra lại PDF quá cao; chủ động rút bài cá nhân để ủng hộ chọn bài toán học bạ của Hải vì dữ liệu bảng Excel chuẩn hóa hơn.
+- Hoàn thiện bảng Research giải pháp có sẵn: thử nghiệm nhập dữ liệu vào ChatGPT/Claude để chứng minh rào cản thao tác lặp 45 lần, nguy cơ lộ PII và văn phong lệch chuẩn Thông tư 22 
 → khẳng định cần giải pháp Batch Workflow.
-Xác định điểm can thiệp AI tại Bước 3 và thiết lập cơ chế fallback tự động chuyển về Rule-based template trên Google Sheets nếu AI gặp lỗi.
-Đóng góp vào Problem Statement v1: bổ sung ranh giới ẩn danh hóa 100% PII, gắn cờ các ca học sinh đặc biệt; thiết kế 3 tiêu chí eval
+- Xác định điểm can thiệp AI tại Bước 3 và thiết lập cơ chế fallback tự động chuyển về Rule-based template trên Google Sheets nếu AI gặp lỗi.
+- Đóng góp vào Problem Statement v1: bổ sung ranh giới ẩn danh hóa 100% PII, gắn cờ các ca học sinh đặc biệt; thiết kế 3 tiêu chí eval
+
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
-Báo cáo cá nhân: mục 2 scan; mục 3 có 3 Problem Cards; mục 4 đóng góp CP3–CP6; mục 5 dùng AI; mục 6 Reflection.
-Báo cáo nhóm group_report.md: Bảng pitch CP3 (Candidate #7, #8, #9); Shortlist CP3; Bảng research CP4 (mục 3.3); Tiêu chí đánh giá eval (mục 7) và Ngưỡng dừng an toàn (mục 8.2).
+- Báo cáo cá nhân: mục 2 scan; mục 3 có 3 Problem Cards; mục 4 đóng góp CP3–CP6; mục 5 dùng AI; mục 6 Reflection.
+- Báo cáo nhóm group_report.md: Bảng pitch CP3 (Candidate #7, #8, #9); Shortlist CP3; Bảng research CP4 (mục 3.3); Tiêu chí đánh giá eval (mục 7) và Ngưỡng dừng an toàn (mục 8.2).
+
 **Điều mình học được từ phần nhóm:**
-Bài toán AI tốt không phải bài toán dùng công nghệ phức tạp, mà cần ranh giới dữ liệu rõ ràng, quy trình chuẩn mực và đo lường được giá trị thực tế.
-Tách bạch rõ ràng giữa Nhu cầu người dùng và Giải pháp kỹ thuật khi dựng cây OST; không để công nghệ dẫn dắt định nghĩa bài toán.
-Trong giáo dục, người dùng chỉ muốn được hỗ trợ soạn nháp (Augment), tuyệt đối không giao phó việc đánh giá con người cho AI (Automate); luôn phải có cơ chế Human-in-the-loop và phương án fallback an toàn.
+- Bài toán AI tốt không phải bài toán dùng công nghệ phức tạp, mà cần ranh giới dữ liệu rõ ràng, quy trình chuẩn mực và đo lường được giá trị thực tế.
+- Tách bạch rõ ràng giữa Nhu cầu người dùng và Giải pháp kỹ thuật khi dựng cây OST; không để công nghệ dẫn dắt định nghĩa bài toán.
+- Trong giáo dục, người dùng chỉ muốn được hỗ trợ soạn nháp (Augment), tuyệt đối không giao phó việc đánh giá con người cho AI (Automate); luôn phải có cơ chế Human-in-the-loop và phương án fallback an toàn.
